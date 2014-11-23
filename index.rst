@@ -13,7 +13,7 @@ This tutorial would not be possible without the documentation efforts of the `Au
 Background
 ==========
 
-A prelimary introduction to CellML can be obtained from the article `An overview of CellML 1.1 <http://sim.sagepub.com/content/79/12/740.short>`_, available in the Zotero database. The modularity and reuse aspects are covered in more detail in `Practical application of CellML 1.1 <http://www.sciencedirect.com/science/article/pii/S0079610708000461>`_, also in the Zotero database.
+A prelimary introduction to CellML can be obtained from the article `An overview of CellML 1.1 <http://sim.sagepub.com/content/79/12/740.short>`_, available in the Zotero database. The modularity and reuse aspects are covered in more detail in `Practical application of CellML 1.1 <http://www.sciencedirect.com/science/article/pii/S0079610708000461>`_ and `Standard virtual biological parts <http://bioinformatics.oxfordjournals.org/content/26/7/925>`_, also in the Zotero database.
 
 The main features available in the `Physiome Repository <https://models.physiomeproject.org>`_ (PMR) are described in the :ref:`PMR documentation <abi-pmr2-index>`, included here for convenience. It is worth having a quick read through that documentation to help with an initial understanding of the repository and how it can be used. Similarly, the documentation for :ref:`OpenCOR <OpenCOR-index>` is also available and worth a quick read.
 
